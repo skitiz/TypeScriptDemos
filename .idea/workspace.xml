@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f5d28fb-13e1-48ad-b65e-dd2ce23e1759" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="706" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TypeScriptDemos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TypeScriptDemos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f5d28fb-13e1-48ad-b65e-dd2ce23e1759" name="Default" comment="" />
+      <created>1520299516217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520299516217</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="706" height="900" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4957507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/examples/scratchpad/demo.js" />
+        <option value="$PROJECT_DIR$/examples/scratchpad/demo.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/accountList.js" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/iAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/main.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/main.js" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/constants.js" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/savingsAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/constants.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/checkingAccount.js" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/bankingAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/accountList.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/bankingAccount.js" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/checkingAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/savingsAccount.js" />
+        <option value="$PROJECT_DIR$/examples/modules/scripts/iAccount.js" />
+        <option value="$PROJECT_DIR$/examples/greeter/scripts/greeter.js.map" />
+        <option value="$PROJECT_DIR$/examples/greeter/scripts/greeter.js" />
+        <option value="$PROJECT_DIR$/examples/classes/scripts/definingClasses.js" />
+        <option value="$PROJECT_DIR$/examples/classes/scripts/definingClasses.js.map" />
+        <option value="$PROJECT_DIR$/examples/optional-default-parameters/scripts/optionalDefaultRestParameters.js" />
+        <option value="$PROJECT_DIR$/examples/optional-default-parameters/scripts/optionalDefaultRestParameters.js.map" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/savingsAccount.js" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/arrayType.js.map" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/iAccount.js" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/bankingAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/accountList.js.map" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/checkingAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/arrayType.js" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/constants.js" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/savingsAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/iAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/accountList.js" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/bankingAccount.js" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/list.js" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/account.js" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/constants.js.map" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/checkingAccount.js" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/list.js.map" />
+        <option value="$PROJECT_DIR$/examples/banking/scripts/account.js.map" />
+        <option value="$PROJECT_DIR$/examples/unions-aliases-const-enums/scripts/constEnums.js.map" />
+        <option value="$PROJECT_DIR$/examples/unions-aliases-const-enums/scripts/typeAliases.js.map" />
+        <option value="$PROJECT_DIR$/examples/unions-aliases-const-enums/scripts/typeAliases.js" />
+        <option value="$PROJECT_DIR$/examples/unions-aliases-const-enums/scripts/unionTypes.js" />
+        <option value="$PROJECT_DIR$/examples/unions-aliases-const-enums/scripts/unionTypes.js.map" />
+        <option value="$PROJECT_DIR$/examples/unions-aliases-const-enums/scripts/constEnums.js" />
+        <option value="$PROJECT_DIR$/examples/calculator-jquery/scripts/calculatorJQuery.js" />
+        <option value="$PROJECT_DIR$/examples/calculator-jquery/scripts/calculatorJQuery.js.map" />
+        <option value="$PROJECT_DIR$/examples/parameter-types/scripts/parameterTypes.js.map" />
+        <option value="$PROJECT_DIR$/examples/parameter-types/scripts/parameterTypes.js" />
+        <option value="$PROJECT_DIR$/examples/modules-starter/scripts/main.js" />
+        <option value="$PROJECT_DIR$/examples/modules-starter/scripts/main.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-starter/scripts/speaker.js" />
+        <option value="$PROJECT_DIR$/examples/modules-starter/scripts/conference.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-starter/scripts/speaker.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-starter/scripts/conference.js" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/checkingAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/bankingAccount.js" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/index.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/savingsAccount.js" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/checkingAccount.js" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/bankingAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/savingsAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/index.js" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/iAccount.js" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/accountList.js" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/iAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/account/accountList.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/constants.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/main.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/main.js" />
+        <option value="$PROJECT_DIR$/examples/modules-barrels/scripts/constants.js" />
+        <option value="$PROJECT_DIR$/examples/class-extension/scripts/classExtension.js" />
+        <option value="$PROJECT_DIR$/examples/class-extension/scripts/classExtension.js.map" />
+        <option value="$PROJECT_DIR$/examples/arrow-functions/scripts/arrow-functions.js" />
+        <option value="$PROJECT_DIR$/examples/arrow-functions/scripts/arrow-functions.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-simple/scripts/bankingAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-simple/scripts/main.js.map" />
+        <option value="$PROJECT_DIR$/examples/modules-simple/scripts/iAccount.js" />
+        <option value="$PROJECT_DIR$/examples/modules-simple/scripts/bankingAccount.js" />
+        <option value="$PROJECT_DIR$/examples/modules-simple/scripts/main.js" />
+        <option value="$PROJECT_DIR$/examples/modules-simple/scripts/iAccount.js.map" />
+        <option value="$PROJECT_DIR$/examples/basic-types/scripts/basicTypes.js.map" />
+        <option value="$PROJECT_DIR$/examples/basic-types/scripts/basicTypes.js" />
+        <option value="$PROJECT_DIR$/examples/interfaces/scripts/interfaces.js" />
+        <option value="$PROJECT_DIR$/examples/interfaces/scripts/interfaces.js.map" />
+        <option value="$PROJECT_DIR$/examples/compounder/scripts/compounder.js" />
+        <option value="$PROJECT_DIR$/examples/compounder/scripts/compounder.js.map" />
+        <option value="$PROJECT_DIR$/examples/calculator/scripts/calculator.js.map" />
+        <option value="$PROJECT_DIR$/examples/calculator/scripts/calculator.js" />
+        <option value="$PROJECT_DIR$/examples/generics/scripts/generics.js.map" />
+        <option value="$PROJECT_DIR$/examples/generics/scripts/generics.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
